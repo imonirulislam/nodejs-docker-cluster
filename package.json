@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-docker-cluster",
+  "version": "1.0.0",
+  "description": "demonastration of scaling nodejs app with docker cluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Monirul Islam<imonirul017@gmail.com>",
+  "license": "ISC"
+}
